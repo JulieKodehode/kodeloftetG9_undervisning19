@@ -1,3 +1,2 @@
-# kodeloftetG9_undervisning19
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/JulieKodehode/kodeloftetG9_undervisning19)
+# Undervisning 19: JavaScript Modulering
+Oppgave beskrivelse: Lag noen enkle funksjoner som eksporteres og importeres til en felles fil hvor funksjonene blir brukt.
